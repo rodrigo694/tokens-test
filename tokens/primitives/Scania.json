@@ -268,7 +268,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.0}"
+            "$value": "{Scania.Solid.Neutral.0}"
           },
           "alpha-08": {
             "$extensions": {
@@ -281,7 +281,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.0}"
+            "$value": "{Scania.Solid.Neutral.0}"
           },
           "alpha-24": {
             "$extensions": {
@@ -294,7 +294,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.0}"
+            "$value": "{Scania.Solid.Neutral.0}"
           },
           "alpha-48": {
             "$extensions": {
@@ -307,7 +307,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.0}"
+            "$value": "{Scania.Solid.Neutral.0}"
           }
         },
         "50": {
@@ -322,7 +322,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.50}"
+            "$value": "{Scania.Solid.Neutral.50}"
           },
           "alpha-08": {
             "$extensions": {
@@ -335,7 +335,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.50}"
+            "$value": "{Scania.Solid.Neutral.50}"
           },
           "alpha-24": {
             "$extensions": {
@@ -348,7 +348,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.50}"
+            "$value": "{Scania.Solid.Neutral.50}"
           },
           "alpha-48": {
             "$extensions": {
@@ -361,7 +361,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.50}"
+            "$value": "{Scania.Solid.Neutral.50}"
           }
         },
         "100": {
@@ -376,7 +376,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.100}"
+            "$value": "{Scania.Solid.Neutral.100}"
           },
           "alpha-08": {
             "$extensions": {
@@ -389,7 +389,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.100}"
+            "$value": "{Scania.Solid.Neutral.100}"
           },
           "alpha-24": {
             "$extensions": {
@@ -402,7 +402,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.100}"
+            "$value": "{Scania.Solid.Neutral.100}"
           },
           "alpha-48": {
             "$extensions": {
@@ -415,7 +415,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.100}"
+            "$value": "{Scania.Solid.Neutral.100}"
           }
         },
         "200": {
@@ -430,7 +430,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.200}"
+            "$value": "{Scania.Solid.Neutral.200}"
           },
           "alpha-08": {
             "$extensions": {
@@ -443,7 +443,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.200}"
+            "$value": "{Scania.Solid.Neutral.200}"
           },
           "alpha-24": {
             "$extensions": {
@@ -456,7 +456,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.200}"
+            "$value": "{Scania.Solid.Neutral.200}"
           },
           "alpha-48": {
             "$extensions": {
@@ -469,7 +469,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.200}"
+            "$value": "{Scania.Solid.Neutral.200}"
           }
         },
         "300": {
@@ -484,7 +484,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.300}"
+            "$value": "{Scania.Solid.Neutral.300}"
           },
           "alpha-08": {
             "$extensions": {
@@ -497,7 +497,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.300}"
+            "$value": "{Scania.Solid.Neutral.300}"
           },
           "alpha-24": {
             "$extensions": {
@@ -510,7 +510,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.300}"
+            "$value": "{Scania.Solid.Neutral.300}"
           },
           "alpha-48": {
             "$extensions": {
@@ -523,7 +523,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.300}"
+            "$value": "{Scania.Solid.Neutral.300}"
           }
         },
         "400": {
@@ -538,7 +538,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.400}"
+            "$value": "{Scania.Solid.Neutral.400}"
           },
           "alpha-08": {
             "$extensions": {
@@ -551,7 +551,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.400}"
+            "$value": "{Scania.Solid.Neutral.400}"
           },
           "alpha-24": {
             "$extensions": {
@@ -564,7 +564,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.400}"
+            "$value": "{Scania.Solid.Neutral.400}"
           },
           "alpha-48": {
             "$extensions": {
@@ -577,7 +577,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.400}"
+            "$value": "{Scania.Solid.Neutral.400}"
           }
         },
         "500": {
@@ -592,7 +592,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.500}"
+            "$value": "{Scania.Solid.Neutral.500}"
           },
           "alpha-08": {
             "$extensions": {
@@ -605,7 +605,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.500}"
+            "$value": "{Scania.Solid.Neutral.500}"
           },
           "alpha-24": {
             "$extensions": {
@@ -618,7 +618,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.500}"
+            "$value": "{Scania.Solid.Neutral.500}"
           },
           "alpha-48": {
             "$extensions": {
@@ -631,7 +631,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.500}"
+            "$value": "{Scania.Solid.Neutral.500}"
           }
         },
         "600": {
@@ -646,7 +646,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.600}"
+            "$value": "{Scania.Solid.Neutral.600}"
           },
           "alpha-08": {
             "$extensions": {
@@ -659,7 +659,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.600}"
+            "$value": "{Scania.Solid.Neutral.600}"
           },
           "alpha-24": {
             "$extensions": {
@@ -672,7 +672,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.600}"
+            "$value": "{Scania.Solid.Neutral.600}"
           },
           "alpha-48": {
             "$extensions": {
@@ -685,7 +685,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.600}"
+            "$value": "{Scania.Solid.Neutral.600}"
           }
         },
         "700": {
@@ -700,7 +700,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.700}"
+            "$value": "{Scania.Solid.Neutral.700}"
           },
           "alpha-08": {
             "$extensions": {
@@ -713,7 +713,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.700}"
+            "$value": "{Scania.Solid.Neutral.700}"
           },
           "alpha-24": {
             "$extensions": {
@@ -726,7 +726,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.700}"
+            "$value": "{Scania.Solid.Neutral.700}"
           },
           "alpha-48": {
             "$extensions": {
@@ -739,7 +739,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.700}"
+            "$value": "{Scania.Solid.Neutral.700}"
           }
         },
         "800": {
@@ -754,7 +754,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.800}"
+            "$value": "{Scania.Solid.Neutral.800}"
           },
           "alpha-08": {
             "$extensions": {
@@ -767,7 +767,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.800}"
+            "$value": "{Scania.Solid.Neutral.800}"
           },
           "alpha-24": {
             "$extensions": {
@@ -780,7 +780,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.800}"
+            "$value": "{Scania.Solid.Neutral.800}"
           },
           "alpha-48": {
             "$extensions": {
@@ -793,7 +793,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.800}"
+            "$value": "{Scania.Solid.Neutral.800}"
           }
         },
         "900": {
@@ -808,7 +808,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.900}"
+            "$value": "{Scania.Solid.Neutral.900}"
           },
           "alpha-08": {
             "$extensions": {
@@ -821,7 +821,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.900}"
+            "$value": "{Scania.Solid.Neutral.900}"
           },
           "alpha-24": {
             "$extensions": {
@@ -834,7 +834,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.900}"
+            "$value": "{Scania.Solid.Neutral.900}"
           },
           "alpha-48": {
             "$extensions": {
@@ -847,7 +847,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.900}"
+            "$value": "{Scania.Solid.Neutral.900}"
           }
         },
         "1000": {
@@ -862,7 +862,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.1000}"
+            "$value": "{Scania.Solid.Neutral.1000}"
           },
           "alpha-08": {
             "$extensions": {
@@ -875,7 +875,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.1000}"
+            "$value": "{Scania.Solid.Neutral.1000}"
           },
           "alpha-24": {
             "$extensions": {
@@ -888,7 +888,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.1000}"
+            "$value": "{Scania.Solid.Neutral.1000}"
           },
           "alpha-48": {
             "$extensions": {
@@ -901,7 +901,7 @@
               }
             },
             "$type": "color",
-            "$value": "{Solid.Neutral.1000}"
+            "$value": "{Scania.Solid.Neutral.1000}"
           }
         }
       },
@@ -919,7 +919,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.0}"
+              "$value": "{Scania.Solid.Accent.Red.0}"
             },
             "alpha-08": {
               "$extensions": {
@@ -932,7 +932,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.0}"
+              "$value": "{Scania.Solid.Accent.Red.0}"
             },
             "alpha-24": {
               "$extensions": {
@@ -945,7 +945,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.0}"
+              "$value": "{Scania.Solid.Accent.Red.0}"
             },
             "alpha-48": {
               "$extensions": {
@@ -958,7 +958,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.0}"
+              "$value": "{Scania.Solid.Accent.Red.0}"
             }
           },
           "50": {
@@ -973,7 +973,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.50}"
+              "$value": "{Scania.Solid.Accent.Red.50}"
             },
             "alpha-08": {
               "$extensions": {
@@ -986,7 +986,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.50}"
+              "$value": "{Scania.Solid.Accent.Red.50}"
             },
             "alpha-24": {
               "$extensions": {
@@ -999,7 +999,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.50}"
+              "$value": "{Scania.Solid.Accent.Red.50}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1012,7 +1012,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.50}"
+              "$value": "{Scania.Solid.Accent.Red.50}"
             }
           },
           "100": {
@@ -1027,7 +1027,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.100}"
+              "$value": "{Scania.Solid.Accent.Red.100}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1040,7 +1040,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.100}"
+              "$value": "{Scania.Solid.Accent.Red.100}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1053,7 +1053,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.100}"
+              "$value": "{Scania.Solid.Accent.Red.100}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1066,7 +1066,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.100}"
+              "$value": "{Scania.Solid.Accent.Red.100}"
             }
           },
           "200": {
@@ -1081,7 +1081,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.200}"
+              "$value": "{Scania.Solid.Accent.Red.200}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1094,7 +1094,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.200}"
+              "$value": "{Scania.Solid.Accent.Red.200}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1107,7 +1107,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.200}"
+              "$value": "{Scania.Solid.Accent.Red.200}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1120,7 +1120,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.200}"
+              "$value": "{Scania.Solid.Accent.Red.200}"
             }
           },
           "300": {
@@ -1135,7 +1135,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.300}"
+              "$value": "{Scania.Solid.Accent.Red.300}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1148,7 +1148,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.300}"
+              "$value": "{Scania.Solid.Accent.Red.300}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1161,7 +1161,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.300}"
+              "$value": "{Scania.Solid.Accent.Red.300}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1174,7 +1174,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.300}"
+              "$value": "{Scania.Solid.Accent.Red.300}"
             }
           },
           "400": {
@@ -1189,7 +1189,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.400}"
+              "$value": "{Scania.Solid.Accent.Red.400}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1202,7 +1202,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.400}"
+              "$value": "{Scania.Solid.Accent.Red.400}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1215,7 +1215,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.400}"
+              "$value": "{Scania.Solid.Accent.Red.400}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1228,7 +1228,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.400}"
+              "$value": "{Scania.Solid.Accent.Red.400}"
             }
           },
           "500": {
@@ -1243,7 +1243,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.500}"
+              "$value": "{Scania.Solid.Accent.Red.500}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1256,7 +1256,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.500}"
+              "$value": "{Scania.Solid.Accent.Red.500}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1269,7 +1269,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.500}"
+              "$value": "{Scania.Solid.Accent.Red.500}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1282,7 +1282,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.500}"
+              "$value": "{Scania.Solid.Accent.Red.500}"
             }
           },
           "600": {
@@ -1297,7 +1297,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.600}"
+              "$value": "{Scania.Solid.Accent.Red.600}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1310,7 +1310,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.600}"
+              "$value": "{Scania.Solid.Accent.Red.600}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1323,7 +1323,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.600}"
+              "$value": "{Scania.Solid.Accent.Red.600}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1336,7 +1336,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.600}"
+              "$value": "{Scania.Solid.Accent.Red.600}"
             }
           },
           "700": {
@@ -1351,7 +1351,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.700}"
+              "$value": "{Scania.Solid.Accent.Red.700}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1364,7 +1364,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.700}"
+              "$value": "{Scania.Solid.Accent.Red.700}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1377,7 +1377,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.700}"
+              "$value": "{Scania.Solid.Accent.Red.700}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1390,7 +1390,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.700}"
+              "$value": "{Scania.Solid.Accent.Red.700}"
             }
           },
           "800": {
@@ -1405,7 +1405,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.800}"
+              "$value": "{Scania.Solid.Accent.Red.800}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1418,7 +1418,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.800}"
+              "$value": "{Scania.Solid.Accent.Red.800}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1431,7 +1431,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.800}"
+              "$value": "{Scania.Solid.Accent.Red.800}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1444,7 +1444,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.800}"
+              "$value": "{Scania.Solid.Accent.Red.800}"
             }
           },
           "900": {
@@ -1459,7 +1459,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.900}"
+              "$value": "{Scania.Solid.Accent.Red.900}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1472,7 +1472,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.900}"
+              "$value": "{Scania.Solid.Accent.Red.900}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1485,7 +1485,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.900}"
+              "$value": "{Scania.Solid.Accent.Red.900}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1498,7 +1498,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.900}"
+              "$value": "{Scania.Solid.Accent.Red.900}"
             }
           },
           "1000": {
@@ -1513,7 +1513,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.1000}"
+              "$value": "{Scania.Solid.Accent.Red.1000}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1526,7 +1526,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.1000}"
+              "$value": "{Scania.Solid.Accent.Red.1000}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1539,7 +1539,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.1000}"
+              "$value": "{Scania.Solid.Accent.Red.1000}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1552,7 +1552,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Red.1000}"
+              "$value": "{Scania.Solid.Accent.Red.1000}"
             }
           }
         },
@@ -1569,7 +1569,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.0}"
+              "$value": "{Scania.Solid.Accent.Blue.0}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1582,7 +1582,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.0}"
+              "$value": "{Scania.Solid.Accent.Blue.0}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1595,7 +1595,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.0}"
+              "$value": "{Scania.Solid.Accent.Blue.0}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1608,7 +1608,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.0}"
+              "$value": "{Scania.Solid.Accent.Blue.0}"
             }
           },
           "50": {
@@ -1623,7 +1623,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.50}"
+              "$value": "{Scania.Solid.Accent.Blue.50}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1636,7 +1636,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.50}"
+              "$value": "{Scania.Solid.Accent.Blue.50}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1649,7 +1649,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.50}"
+              "$value": "{Scania.Solid.Accent.Blue.50}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1662,7 +1662,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.50}"
+              "$value": "{Scania.Solid.Accent.Blue.50}"
             }
           },
           "100": {
@@ -1677,7 +1677,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.100}"
+              "$value": "{Scania.Solid.Accent.Blue.100}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1690,7 +1690,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.100}"
+              "$value": "{Scania.Solid.Accent.Blue.100}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1703,7 +1703,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.100}"
+              "$value": "{Scania.Solid.Accent.Blue.100}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1716,7 +1716,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.100}"
+              "$value": "{Scania.Solid.Accent.Blue.100}"
             }
           },
           "200": {
@@ -1731,7 +1731,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.200}"
+              "$value": "{Scania.Solid.Accent.Blue.200}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1744,7 +1744,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.200}"
+              "$value": "{Scania.Solid.Accent.Blue.200}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1757,7 +1757,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.200}"
+              "$value": "{Scania.Solid.Accent.Blue.200}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1770,7 +1770,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.200}"
+              "$value": "{Scania.Solid.Accent.Blue.200}"
             }
           },
           "300": {
@@ -1785,7 +1785,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.300}"
+              "$value": "{Scania.Solid.Accent.Blue.300}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1798,7 +1798,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.300}"
+              "$value": "{Scania.Solid.Accent.Blue.300}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1811,7 +1811,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.300}"
+              "$value": "{Scania.Solid.Accent.Blue.300}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1824,7 +1824,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.300}"
+              "$value": "{Scania.Solid.Accent.Blue.300}"
             }
           },
           "400": {
@@ -1839,7 +1839,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.400}"
+              "$value": "{Scania.Solid.Accent.Blue.400}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1852,7 +1852,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.400}"
+              "$value": "{Scania.Solid.Accent.Blue.400}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1865,7 +1865,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.400}"
+              "$value": "{Scania.Solid.Accent.Blue.400}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1878,7 +1878,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.400}"
+              "$value": "{Scania.Solid.Accent.Blue.400}"
             }
           },
           "500": {
@@ -1893,7 +1893,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.500}"
+              "$value": "{Scania.Solid.Accent.Blue.500}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1906,7 +1906,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.500}"
+              "$value": "{Scania.Solid.Accent.Blue.500}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1919,7 +1919,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.500}"
+              "$value": "{Scania.Solid.Accent.Blue.500}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1932,7 +1932,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.500}"
+              "$value": "{Scania.Solid.Accent.Blue.500}"
             }
           },
           "600": {
@@ -1947,7 +1947,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.600}"
+              "$value": "{Scania.Solid.Accent.Blue.600}"
             },
             "alpha-08": {
               "$extensions": {
@@ -1960,7 +1960,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.600}"
+              "$value": "{Scania.Solid.Accent.Blue.600}"
             },
             "alpha-24": {
               "$extensions": {
@@ -1973,7 +1973,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.600}"
+              "$value": "{Scania.Solid.Accent.Blue.600}"
             },
             "alpha-48": {
               "$extensions": {
@@ -1986,7 +1986,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.600}"
+              "$value": "{Scania.Solid.Accent.Blue.600}"
             }
           },
           "700": {
@@ -2001,7 +2001,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.700}"
+              "$value": "{Scania.Solid.Accent.Blue.700}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2014,7 +2014,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.700}"
+              "$value": "{Scania.Solid.Accent.Blue.700}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2027,7 +2027,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.700}"
+              "$value": "{Scania.Solid.Accent.Blue.700}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2040,7 +2040,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.700}"
+              "$value": "{Scania.Solid.Accent.Blue.700}"
             }
           },
           "800": {
@@ -2055,7 +2055,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.800}"
+              "$value": "{Scania.Solid.Accent.Blue.800}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2068,7 +2068,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.800}"
+              "$value": "{Scania.Solid.Accent.Blue.800}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2081,7 +2081,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.800}"
+              "$value": "{Scania.Solid.Accent.Blue.800}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2094,7 +2094,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.800}"
+              "$value": "{Scania.Solid.Accent.Blue.800}"
             }
           },
           "900": {
@@ -2109,7 +2109,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.900}"
+              "$value": "{Scania.Solid.Accent.Blue.900}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2122,7 +2122,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.900}"
+              "$value": "{Scania.Solid.Accent.Blue.900}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2135,7 +2135,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.900}"
+              "$value": "{Scania.Solid.Accent.Blue.900}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2148,7 +2148,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.900}"
+              "$value": "{Scania.Solid.Accent.Blue.900}"
             }
           },
           "1000": {
@@ -2163,7 +2163,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.1000}"
+              "$value": "{Scania.Solid.Accent.Blue.1000}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2176,7 +2176,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.1000}"
+              "$value": "{Scania.Solid.Accent.Blue.1000}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2189,7 +2189,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.1000}"
+              "$value": "{Scania.Solid.Accent.Blue.1000}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2202,7 +2202,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Blue.1000}"
+              "$value": "{Scania.Solid.Accent.Blue.1000}"
             }
           }
         },
@@ -2219,7 +2219,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.0}"
+              "$value": "{Scania.Solid.Accent.Yellow.0}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2232,7 +2232,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.0}"
+              "$value": "{Scania.Solid.Accent.Yellow.0}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2245,7 +2245,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.0}"
+              "$value": "{Scania.Solid.Accent.Yellow.0}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2258,7 +2258,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.0}"
+              "$value": "{Scania.Solid.Accent.Yellow.0}"
             }
           },
           "50": {
@@ -2273,7 +2273,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.50}"
+              "$value": "{Scania.Solid.Accent.Yellow.50}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2286,7 +2286,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.50}"
+              "$value": "{Scania.Solid.Accent.Yellow.50}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2299,7 +2299,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.50}"
+              "$value": "{Scania.Solid.Accent.Yellow.50}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2312,7 +2312,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.50}"
+              "$value": "{Scania.Solid.Accent.Yellow.50}"
             }
           },
           "100": {
@@ -2327,7 +2327,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.100}"
+              "$value": "{Scania.Solid.Accent.Yellow.100}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2340,7 +2340,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.100}"
+              "$value": "{Scania.Solid.Accent.Yellow.100}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2353,7 +2353,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.100}"
+              "$value": "{Scania.Solid.Accent.Yellow.100}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2366,7 +2366,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.100}"
+              "$value": "{Scania.Solid.Accent.Yellow.100}"
             }
           },
           "200": {
@@ -2381,7 +2381,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.200}"
+              "$value": "{Scania.Solid.Accent.Yellow.200}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2394,7 +2394,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.200}"
+              "$value": "{Scania.Solid.Accent.Yellow.200}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2407,7 +2407,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.200}"
+              "$value": "{Scania.Solid.Accent.Yellow.200}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2420,7 +2420,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.200}"
+              "$value": "{Scania.Solid.Accent.Yellow.200}"
             }
           },
           "300": {
@@ -2435,7 +2435,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.300}"
+              "$value": "{Scania.Solid.Accent.Yellow.300}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2448,7 +2448,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.300}"
+              "$value": "{Scania.Solid.Accent.Yellow.300}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2461,7 +2461,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.300}"
+              "$value": "{Scania.Solid.Accent.Yellow.300}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2474,7 +2474,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.300}"
+              "$value": "{Scania.Solid.Accent.Yellow.300}"
             }
           },
           "400": {
@@ -2489,7 +2489,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.400}"
+              "$value": "{Scania.Solid.Accent.Yellow.400}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2502,7 +2502,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.400}"
+              "$value": "{Scania.Solid.Accent.Yellow.400}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2515,7 +2515,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.400}"
+              "$value": "{Scania.Solid.Accent.Yellow.400}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2528,7 +2528,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.400}"
+              "$value": "{Scania.Solid.Accent.Yellow.400}"
             }
           },
           "500": {
@@ -2543,7 +2543,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.500}"
+              "$value": "{Scania.Solid.Accent.Yellow.500}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2556,7 +2556,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.500}"
+              "$value": "{Scania.Solid.Accent.Yellow.500}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2569,7 +2569,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.500}"
+              "$value": "{Scania.Solid.Accent.Yellow.500}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2582,7 +2582,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.500}"
+              "$value": "{Scania.Solid.Accent.Yellow.500}"
             }
           },
           "600": {
@@ -2597,7 +2597,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.600}"
+              "$value": "{Scania.Solid.Accent.Yellow.600}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2610,7 +2610,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.600}"
+              "$value": "{Scania.Solid.Accent.Yellow.600}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2623,7 +2623,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.600}"
+              "$value": "{Scania.Solid.Accent.Yellow.600}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2636,7 +2636,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.600}"
+              "$value": "{Scania.Solid.Accent.Yellow.600}"
             }
           },
           "700": {
@@ -2651,7 +2651,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.700}"
+              "$value": "{Scania.Solid.Accent.Yellow.700}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2664,7 +2664,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.700}"
+              "$value": "{Scania.Solid.Accent.Yellow.700}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2677,7 +2677,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.700}"
+              "$value": "{Scania.Solid.Accent.Yellow.700}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2690,7 +2690,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.700}"
+              "$value": "{Scania.Solid.Accent.Yellow.700}"
             }
           },
           "800": {
@@ -2705,7 +2705,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.800}"
+              "$value": "{Scania.Solid.Accent.Yellow.800}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2718,7 +2718,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.800}"
+              "$value": "{Scania.Solid.Accent.Yellow.800}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2731,7 +2731,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.800}"
+              "$value": "{Scania.Solid.Accent.Yellow.800}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2744,7 +2744,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.800}"
+              "$value": "{Scania.Solid.Accent.Yellow.800}"
             }
           },
           "900": {
@@ -2759,7 +2759,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.900}"
+              "$value": "{Scania.Solid.Accent.Yellow.900}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2772,7 +2772,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.900}"
+              "$value": "{Scania.Solid.Accent.Yellow.900}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2785,7 +2785,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.900}"
+              "$value": "{Scania.Solid.Accent.Yellow.900}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2798,7 +2798,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.900}"
+              "$value": "{Scania.Solid.Accent.Yellow.900}"
             }
           },
           "1000": {
@@ -2813,7 +2813,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.1000}"
+              "$value": "{Scania.Solid.Accent.Yellow.1000}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2826,7 +2826,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.1000}"
+              "$value": "{Scania.Solid.Accent.Yellow.1000}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2839,7 +2839,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.1000}"
+              "$value": "{Scania.Solid.Accent.Yellow.1000}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2852,7 +2852,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Yellow.1000}"
+              "$value": "{Scania.Solid.Accent.Yellow.1000}"
             }
           }
         },
@@ -2869,7 +2869,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.0}"
+              "$value": "{Scania.Solid.Accent.Green.0}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2882,7 +2882,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.0}"
+              "$value": "{Scania.Solid.Accent.Green.0}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2895,7 +2895,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.0}"
+              "$value": "{Scania.Solid.Accent.Green.0}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2908,7 +2908,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.0}"
+              "$value": "{Scania.Solid.Accent.Green.0}"
             }
           },
           "50": {
@@ -2923,7 +2923,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.50}"
+              "$value": "{Scania.Solid.Accent.Green.50}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2936,7 +2936,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.50}"
+              "$value": "{Scania.Solid.Accent.Green.50}"
             },
             "alpha-24": {
               "$extensions": {
@@ -2949,7 +2949,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.50}"
+              "$value": "{Scania.Solid.Accent.Green.50}"
             },
             "alpha-48": {
               "$extensions": {
@@ -2962,7 +2962,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.50}"
+              "$value": "{Scania.Solid.Accent.Green.50}"
             }
           },
           "100": {
@@ -2977,7 +2977,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.100}"
+              "$value": "{Scania.Solid.Accent.Green.100}"
             },
             "alpha-08": {
               "$extensions": {
@@ -2990,7 +2990,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.100}"
+              "$value": "{Scania.Solid.Accent.Green.100}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3003,7 +3003,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.100}"
+              "$value": "{Scania.Solid.Accent.Green.100}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3016,7 +3016,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.100}"
+              "$value": "{Scania.Solid.Accent.Green.100}"
             }
           },
           "200": {
@@ -3031,7 +3031,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.200}"
+              "$value": "{Scania.Solid.Accent.Green.200}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3044,7 +3044,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.200}"
+              "$value": "{Scania.Solid.Accent.Green.200}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3057,7 +3057,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.200}"
+              "$value": "{Scania.Solid.Accent.Green.200}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3070,7 +3070,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.200}"
+              "$value": "{Scania.Solid.Accent.Green.200}"
             }
           },
           "300": {
@@ -3085,7 +3085,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.300}"
+              "$value": "{Scania.Solid.Accent.Green.300}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3098,7 +3098,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.300}"
+              "$value": "{Scania.Solid.Accent.Green.300}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3111,7 +3111,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.300}"
+              "$value": "{Scania.Solid.Accent.Green.300}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3124,7 +3124,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.300}"
+              "$value": "{Scania.Solid.Accent.Green.300}"
             }
           },
           "400": {
@@ -3139,7 +3139,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.400}"
+              "$value": "{Scania.Solid.Accent.Green.400}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3152,7 +3152,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.400}"
+              "$value": "{Scania.Solid.Accent.Green.400}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3165,7 +3165,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.400}"
+              "$value": "{Scania.Solid.Accent.Green.400}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3178,7 +3178,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.400}"
+              "$value": "{Scania.Solid.Accent.Green.400}"
             }
           },
           "500": {
@@ -3193,7 +3193,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.500}"
+              "$value": "{Scania.Solid.Accent.Green.500}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3206,7 +3206,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.500}"
+              "$value": "{Scania.Solid.Accent.Green.500}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3219,7 +3219,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.500}"
+              "$value": "{Scania.Solid.Accent.Green.500}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3232,7 +3232,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.500}"
+              "$value": "{Scania.Solid.Accent.Green.500}"
             }
           },
           "600": {
@@ -3247,7 +3247,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.600}"
+              "$value": "{Scania.Solid.Accent.Green.600}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3260,7 +3260,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.600}"
+              "$value": "{Scania.Solid.Accent.Green.600}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3273,7 +3273,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.600}"
+              "$value": "{Scania.Solid.Accent.Green.600}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3286,7 +3286,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.600}"
+              "$value": "{Scania.Solid.Accent.Green.600}"
             }
           },
           "700": {
@@ -3301,7 +3301,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.700}"
+              "$value": "{Scania.Solid.Accent.Green.700}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3314,7 +3314,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.700}"
+              "$value": "{Scania.Solid.Accent.Green.700}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3327,7 +3327,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.700}"
+              "$value": "{Scania.Solid.Accent.Green.700}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3340,7 +3340,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.700}"
+              "$value": "{Scania.Solid.Accent.Green.700}"
             }
           },
           "800": {
@@ -3355,7 +3355,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.800}"
+              "$value": "{Scania.Solid.Accent.Green.800}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3368,7 +3368,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.800}"
+              "$value": "{Scania.Solid.Accent.Green.800}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3381,7 +3381,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.800}"
+              "$value": "{Scania.Solid.Accent.Green.800}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3394,7 +3394,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.800}"
+              "$value": "{Scania.Solid.Accent.Green.800}"
             }
           },
           "900": {
@@ -3409,7 +3409,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.900}"
+              "$value": "{Scania.Solid.Accent.Green.900}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3422,7 +3422,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.900}"
+              "$value": "{Scania.Solid.Accent.Green.900}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3435,7 +3435,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.900}"
+              "$value": "{Scania.Solid.Accent.Green.900}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3448,7 +3448,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.900}"
+              "$value": "{Scania.Solid.Accent.Green.900}"
             }
           },
           "1000": {
@@ -3463,7 +3463,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.1000}"
+              "$value": "{Scania.Solid.Accent.Green.1000}"
             },
             "alpha-08": {
               "$extensions": {
@@ -3476,7 +3476,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.1000}"
+              "$value": "{Scania.Solid.Accent.Green.1000}"
             },
             "alpha-24": {
               "$extensions": {
@@ -3489,7 +3489,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.1000}"
+              "$value": "{Scania.Solid.Accent.Green.1000}"
             },
             "alpha-48": {
               "$extensions": {
@@ -3502,7 +3502,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Solid.Accent.Green.1000}"
+              "$value": "{Scania.Solid.Accent.Green.1000}"
             }
           }
         }
