@@ -2,253 +2,253 @@
   "Solid": {
     "Neutral": {
       "0": {
-        "value": "#ffffff",
-        "type": "color"
+        "$type": "color",
+        "$value": "#ffffff"
       },
       "50": {
-        "value": "#e8e8e8",
-        "type": "color"
+        "$type": "color",
+        "$value": "#e8e8e8"
       },
       "100": {
-        "value": "#d1d1d1",
-        "type": "color"
+        "$type": "color",
+        "$value": "#d1d1d1"
       },
       "200": {
-        "value": "#bababa",
-        "type": "color"
+        "$type": "color",
+        "$value": "#bababa"
       },
       "300": {
-        "value": "#a3a3a3",
-        "type": "color"
+        "$type": "color",
+        "$value": "#a3a3a3"
       },
       "400": {
-        "value": "#8c8c8c",
-        "type": "color"
+        "$type": "color",
+        "$value": "#8c8c8c"
       },
       "500": {
-        "value": "#757575",
-        "type": "color"
+        "$type": "color",
+        "$value": "#757575"
       },
       "600": {
-        "value": "#5e5e5e",
-        "type": "color"
+        "$type": "color",
+        "$value": "#5e5e5e"
       },
       "700": {
-        "value": "#474747",
-        "type": "color"
+        "$type": "color",
+        "$value": "#474747"
       },
       "800": {
-        "value": "#303030",
-        "type": "color"
+        "$type": "color",
+        "$value": "#303030"
       },
       "900": {
-        "value": "#191919",
-        "type": "color"
+        "$type": "color",
+        "$value": "#191919"
       },
       "1000": {
-        "value": "#000000",
-        "type": "color"
+        "$type": "color",
+        "$value": "#000000"
       }
     },
     "Accent": {
       "Red": {
         "0": {
-          "value": "#fff3f4",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fff3f4"
         },
         "50": {
-          "value": "#ffdfe3",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffdfe3"
         },
         "100": {
-          "value": "#ffb9b8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffb9b8"
         },
         "200": {
-          "value": "#fc8a88",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fc8a88"
         },
         "300": {
-          "value": "#ea4851",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ea4851"
         },
         "400": {
-          "value": "#d1001b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d1001b"
         },
         "500": {
-          "value": "#b20018",
-          "type": "color"
+          "$type": "color",
+          "$value": "#b20018"
         },
         "600": {
-          "value": "#8a0012",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8a0012"
         },
         "700": {
-          "value": "#6c0011",
-          "type": "color"
+          "$type": "color",
+          "$value": "#6c0011"
         },
         "800": {
-          "value": "#480008",
-          "type": "color"
+          "$type": "color",
+          "$value": "#480008"
         },
         "900": {
-          "value": "#350004",
-          "type": "color"
+          "$type": "color",
+          "$value": "#350004"
         },
         "1000": {
-          "value": "#280101",
-          "type": "color"
+          "$type": "color",
+          "$value": "#280101"
         }
       },
       "Blue": {
         "0": {
-          "value": "#f4f7fb",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f4f7fb"
         },
         "50": {
-          "value": "#e4e9f1",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e4e9f1"
         },
         "100": {
-          "value": "#bacde8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#bacde8"
         },
         "200": {
-          "value": "#87afe8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#87afe8"
         },
         "300": {
-          "value": "#4a89f3",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4a89f3"
         },
         "400": {
-          "value": "#2a6ecf",
-          "type": "color"
+          "$type": "color",
+          "$value": "#2a6ecf"
         },
         "500": {
-          "value": "#2058a8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#2058a8"
         },
         "600": {
-          "value": "#16417f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#16417f"
         },
         "700": {
-          "value": "#0f3263",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0f3263"
         },
         "800": {
-          "value": "#041e42",
-          "type": "color"
+          "$type": "color",
+          "$value": "#041e42"
         },
         "900": {
-          "value": "#001533",
-          "type": "color"
+          "$type": "color",
+          "$value": "#001533"
         },
         "1000": {
-          "value": "#00112a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00112a"
         }
       },
       "Yellow": {
         "0": {
-          "value": "#fcf6e6",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fcf6e6"
         },
         "50": {
-          "value": "#f9eec3",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f9eec3"
         },
         "100": {
-          "value": "#f8e596",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f8e596"
         },
         "200": {
-          "value": "#f4d65d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f4d65d"
         },
         "300": {
-          "value": "#f1c21b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f1c21b"
         },
         "400": {
-          "value": "#eaad06",
-          "type": "color"
+          "$type": "color",
+          "$value": "#eaad06"
         },
         "500": {
-          "value": "#b87c14",
-          "type": "color"
+          "$type": "color",
+          "$value": "#b87c14"
         },
         "600": {
-          "value": "#975717",
-          "type": "color"
+          "$type": "color",
+          "$value": "#975717"
         },
         "700": {
-          "value": "#6b3b10",
-          "type": "color"
+          "$type": "color",
+          "$value": "#6b3b10"
         },
         "800": {
-          "value": "#4d260a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4d260a"
         },
         "900": {
-          "value": "#361b07",
-          "type": "color"
+          "$type": "color",
+          "$value": "#361b07"
         },
         "1000": {
-          "value": "#271502",
-          "type": "color"
+          "$type": "color",
+          "$value": "#271502"
         }
       },
       "Green": {
         "0": {
-          "value": "#f1fcf9",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f1fcf9"
         },
         "50": {
-          "value": "#d3eee7",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d3eee7"
         },
         "100": {
-          "value": "#9bd9c2",
-          "type": "color"
+          "$type": "color",
+          "$value": "#9bd9c2"
         },
         "200": {
-          "value": "#65bda5",
-          "type": "color"
+          "$type": "color",
+          "$value": "#65bda5"
         },
         "300": {
-          "value": "#009e7e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#009e7e"
         },
         "400": {
-          "value": "#008064",
-          "type": "color"
+          "$type": "color",
+          "$value": "#008064"
         },
         "500": {
-          "value": "#00664f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00664f"
         },
         "600": {
-          "value": "#004d3b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#004d3b"
         },
         "700": {
-          "value": "#0a382e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0a382e"
         },
         "800": {
-          "value": "#00251b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00251b"
         },
         "900": {
-          "value": "#001a12",
-          "type": "color"
+          "$type": "color",
+          "$value": "#001a12"
         },
         "1000": {
-          "value": "#000f07",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000f07"
         }
       }
     }
@@ -257,218 +257,218 @@
     "Neutral": {
       "0": {
         "alpha-00": {
-          "value": "#ffffff00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff00"
         },
         "alpha-08": {
-          "value": "#ffffff14",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff14"
         },
         "alpha-24": {
-          "value": "#ffffff3d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff3d"
         },
         "alpha-48": {
-          "value": "#ffffff7a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff7a"
         }
       },
       "50": {
         "alpha-00": {
-          "value": "#e8e8e800",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e8e8e800"
         },
         "alpha-08": {
-          "value": "#e8e8e814",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e8e8e814"
         },
         "alpha-24": {
-          "value": "#e8e8e83d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e8e8e83d"
         },
         "alpha-48": {
-          "value": "#e8e8e87a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e8e8e87a"
         }
       },
       "100": {
         "alpha-00": {
-          "value": "#d1d1d100",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d1d1d100"
         },
         "alpha-08": {
-          "value": "#d1d1d114",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d1d1d114"
         },
         "alpha-24": {
-          "value": "#d1d1d13d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d1d1d13d"
         },
         "alpha-48": {
-          "value": "#d1d1d17a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d1d1d17a"
         }
       },
       "200": {
         "alpha-00": {
-          "value": "#bababa00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#bababa00"
         },
         "alpha-08": {
-          "value": "#bababa14",
-          "type": "color"
+          "$type": "color",
+          "$value": "#bababa14"
         },
         "alpha-24": {
-          "value": "#bababa3d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#bababa3d"
         },
         "alpha-48": {
-          "value": "#bababa7a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#bababa7a"
         }
       },
       "300": {
         "alpha-00": {
-          "value": "#a3a3a300",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a3a3a300"
         },
         "alpha-08": {
-          "value": "#a3a3a314",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a3a3a314"
         },
         "alpha-24": {
-          "value": "#a3a3a33d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a3a3a33d"
         },
         "alpha-48": {
-          "value": "#a3a3a37a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a3a3a37a"
         }
       },
       "400": {
         "alpha-00": {
-          "value": "#8c8c8c00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8c8c8c00"
         },
         "alpha-08": {
-          "value": "#8c8c8c14",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8c8c8c14"
         },
         "alpha-24": {
-          "value": "#8c8c8c3d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8c8c8c3d"
         },
         "alpha-48": {
-          "value": "#8c8c8c7a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8c8c8c7a"
         }
       },
       "500": {
         "alpha-00": {
-          "value": "#75757500",
-          "type": "color"
+          "$type": "color",
+          "$value": "#75757500"
         },
         "alpha-08": {
-          "value": "#75757514",
-          "type": "color"
+          "$type": "color",
+          "$value": "#75757514"
         },
         "alpha-24": {
-          "value": "#7575753d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#7575753d"
         },
         "alpha-48": {
-          "value": "#7575757a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#7575757a"
         }
       },
       "600": {
         "alpha-00": {
-          "value": "#5e5e5e00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#5e5e5e00"
         },
         "alpha-08": {
-          "value": "#5e5e5e14",
-          "type": "color"
+          "$type": "color",
+          "$value": "#5e5e5e14"
         },
         "alpha-24": {
-          "value": "#5e5e5e3d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#5e5e5e3d"
         },
         "alpha-48": {
-          "value": "#5e5e5e7a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#5e5e5e7a"
         }
       },
       "700": {
         "alpha-00": {
-          "value": "#47474700",
-          "type": "color"
+          "$type": "color",
+          "$value": "#47474700"
         },
         "alpha-08": {
-          "value": "#47474714",
-          "type": "color"
+          "$type": "color",
+          "$value": "#47474714"
         },
         "alpha-24": {
-          "value": "#4747473d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4747473d"
         },
         "alpha-48": {
-          "value": "#4747477a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4747477a"
         }
       },
       "800": {
         "alpha-00": {
-          "value": "#30303000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#30303000"
         },
         "alpha-08": {
-          "value": "#30303014",
-          "type": "color"
+          "$type": "color",
+          "$value": "#30303014"
         },
         "alpha-24": {
-          "value": "#3030303d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#3030303d"
         },
         "alpha-48": {
-          "value": "#3030307a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#3030307a"
         }
       },
       "900": {
         "alpha-00": {
-          "value": "#19191900",
-          "type": "color"
+          "$type": "color",
+          "$value": "#19191900"
         },
         "alpha-08": {
-          "value": "#19191914",
-          "type": "color"
+          "$type": "color",
+          "$value": "#19191914"
         },
         "alpha-24": {
-          "value": "#1919193d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1919193d"
         },
         "alpha-48": {
-          "value": "#1919197a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1919197a"
         }
       },
       "1000": {
         "alpha-00": {
-          "value": "#00000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00000000"
         },
         "alpha-08": {
-          "value": "#00000014",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00000014"
         },
         "alpha-24": {
-          "value": "#0000003d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0000003d"
         },
         "alpha-48": {
-          "value": "#0000007a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0000007a"
         }
       }
     },
@@ -476,872 +476,872 @@
       "Red": {
         "0": {
           "alpha-00": {
-            "value": "#fff3f400",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fff3f400"
           },
           "alpha-08": {
-            "value": "#fff3f414",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fff3f414"
           },
           "alpha-24": {
-            "value": "#fff3f43d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fff3f43d"
           },
           "alpha-48": {
-            "value": "#fff3f47a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fff3f47a"
           }
         },
         "50": {
           "alpha-00": {
-            "value": "#ffdfe300",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffdfe300"
           },
           "alpha-08": {
-            "value": "#ffdfe314",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffdfe314"
           },
           "alpha-24": {
-            "value": "#ffdfe33d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffdfe33d"
           },
           "alpha-48": {
-            "value": "#ffdfe37a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffdfe37a"
           }
         },
         "100": {
           "alpha-00": {
-            "value": "#ffb9b800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffb9b800"
           },
           "alpha-08": {
-            "value": "#ffb9b814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffb9b814"
           },
           "alpha-24": {
-            "value": "#ffb9b83d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffb9b83d"
           },
           "alpha-48": {
-            "value": "#ffb9b87a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffb9b87a"
           }
         },
         "200": {
           "alpha-00": {
-            "value": "#fc8a8800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fc8a8800"
           },
           "alpha-08": {
-            "value": "#fc8a8814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fc8a8814"
           },
           "alpha-24": {
-            "value": "#fc8a883d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fc8a883d"
           },
           "alpha-48": {
-            "value": "#fc8a887a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fc8a887a"
           }
         },
         "300": {
           "alpha-00": {
-            "value": "#ea485100",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ea485100"
           },
           "alpha-08": {
-            "value": "#ea485114",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ea485114"
           },
           "alpha-24": {
-            "value": "#ea48513d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ea48513d"
           },
           "alpha-48": {
-            "value": "#ea48517a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ea48517a"
           }
         },
         "400": {
           "alpha-00": {
-            "value": "#d1001b00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d1001b00"
           },
           "alpha-08": {
-            "value": "#d1001b14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d1001b14"
           },
           "alpha-24": {
-            "value": "#d1001b3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d1001b3d"
           },
           "alpha-48": {
-            "value": "#d1001b7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d1001b7a"
           }
         },
         "500": {
           "alpha-00": {
-            "value": "#b2001800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b2001800"
           },
           "alpha-08": {
-            "value": "#b2001814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b2001814"
           },
           "alpha-24": {
-            "value": "#b200183d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b200183d"
           },
           "alpha-48": {
-            "value": "#b200187a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b200187a"
           }
         },
         "600": {
           "alpha-00": {
-            "value": "#8a001200",
-            "type": "color"
+            "$type": "color",
+            "$value": "#8a001200"
           },
           "alpha-08": {
-            "value": "#8a001214",
-            "type": "color"
+            "$type": "color",
+            "$value": "#8a001214"
           },
           "alpha-24": {
-            "value": "#8a00123d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#8a00123d"
           },
           "alpha-48": {
-            "value": "#8a00127a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#8a00127a"
           }
         },
         "700": {
           "alpha-00": {
-            "value": "#6c001100",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6c001100"
           },
           "alpha-08": {
-            "value": "#6c001114",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6c001114"
           },
           "alpha-24": {
-            "value": "#6c00113d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6c00113d"
           },
           "alpha-48": {
-            "value": "#6c00117a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6c00117a"
           }
         },
         "800": {
           "alpha-00": {
-            "value": "#48000800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#48000800"
           },
           "alpha-08": {
-            "value": "#48000814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#48000814"
           },
           "alpha-24": {
-            "value": "#4800083d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4800083d"
           },
           "alpha-48": {
-            "value": "#4800087a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4800087a"
           }
         },
         "900": {
           "alpha-00": {
-            "value": "#35000400",
-            "type": "color"
+            "$type": "color",
+            "$value": "#35000400"
           },
           "alpha-08": {
-            "value": "#35000414",
-            "type": "color"
+            "$type": "color",
+            "$value": "#35000414"
           },
           "alpha-24": {
-            "value": "#3500043d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#3500043d"
           },
           "alpha-48": {
-            "value": "#3500047a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#3500047a"
           }
         },
         "1000": {
           "alpha-00": {
-            "value": "#28010100",
-            "type": "color"
+            "$type": "color",
+            "$value": "#28010100"
           },
           "alpha-08": {
-            "value": "#28010114",
-            "type": "color"
+            "$type": "color",
+            "$value": "#28010114"
           },
           "alpha-24": {
-            "value": "#2801013d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2801013d"
           },
           "alpha-48": {
-            "value": "#2801017a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2801017a"
           }
         }
       },
       "Blue": {
         "0": {
           "alpha-00": {
-            "value": "#f4f7fb00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4f7fb00"
           },
           "alpha-08": {
-            "value": "#f4f7fb14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4f7fb14"
           },
           "alpha-24": {
-            "value": "#f4f7fb3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4f7fb3d"
           },
           "alpha-48": {
-            "value": "#f4f7fb7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4f7fb7a"
           }
         },
         "50": {
           "alpha-00": {
-            "value": "#e4e9f100",
-            "type": "color"
+            "$type": "color",
+            "$value": "#e4e9f100"
           },
           "alpha-08": {
-            "value": "#e4e9f114",
-            "type": "color"
+            "$type": "color",
+            "$value": "#e4e9f114"
           },
           "alpha-24": {
-            "value": "#e4e9f13d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#e4e9f13d"
           },
           "alpha-48": {
-            "value": "#e4e9f17a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#e4e9f17a"
           }
         },
         "100": {
           "alpha-00": {
-            "value": "#bacde800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#bacde800"
           },
           "alpha-08": {
-            "value": "#bacde814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#bacde814"
           },
           "alpha-24": {
-            "value": "#bacde83d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#bacde83d"
           },
           "alpha-48": {
-            "value": "#bacde87a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#bacde87a"
           }
         },
         "200": {
           "alpha-00": {
-            "value": "#87afe800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#87afe800"
           },
           "alpha-08": {
-            "value": "#87afe814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#87afe814"
           },
           "alpha-24": {
-            "value": "#87afe83d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#87afe83d"
           },
           "alpha-48": {
-            "value": "#87afe87a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#87afe87a"
           }
         },
         "300": {
           "alpha-00": {
-            "value": "#4a89f300",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4a89f300"
           },
           "alpha-08": {
-            "value": "#4a89f314",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4a89f314"
           },
           "alpha-24": {
-            "value": "#4a89f33d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4a89f33d"
           },
           "alpha-48": {
-            "value": "#4a89f37a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4a89f37a"
           }
         },
         "400": {
           "alpha-00": {
-            "value": "#2a6ecf00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2a6ecf00"
           },
           "alpha-08": {
-            "value": "#2a6ecf14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2a6ecf14"
           },
           "alpha-24": {
-            "value": "#2a6ecf3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2a6ecf3d"
           },
           "alpha-48": {
-            "value": "#2a6ecf7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2a6ecf7a"
           }
         },
         "500": {
           "alpha-00": {
-            "value": "#2058a800",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2058a800"
           },
           "alpha-08": {
-            "value": "#2058a814",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2058a814"
           },
           "alpha-24": {
-            "value": "#2058a83d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2058a83d"
           },
           "alpha-48": {
-            "value": "#2058a87a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2058a87a"
           }
         },
         "600": {
           "alpha-00": {
-            "value": "#16417f00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#16417f00"
           },
           "alpha-08": {
-            "value": "#16417f14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#16417f14"
           },
           "alpha-24": {
-            "value": "#16417f3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#16417f3d"
           },
           "alpha-48": {
-            "value": "#16417f7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#16417f7a"
           }
         },
         "700": {
           "alpha-00": {
-            "value": "#0f326300",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0f326300"
           },
           "alpha-08": {
-            "value": "#0f326314",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0f326314"
           },
           "alpha-24": {
-            "value": "#0f32633d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0f32633d"
           },
           "alpha-48": {
-            "value": "#0f32637a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0f32637a"
           }
         },
         "800": {
           "alpha-00": {
-            "value": "#041e4200",
-            "type": "color"
+            "$type": "color",
+            "$value": "#041e4200"
           },
           "alpha-08": {
-            "value": "#041e4214",
-            "type": "color"
+            "$type": "color",
+            "$value": "#041e4214"
           },
           "alpha-24": {
-            "value": "#041e423d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#041e423d"
           },
           "alpha-48": {
-            "value": "#041e427a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#041e427a"
           }
         },
         "900": {
           "alpha-00": {
-            "value": "#00153300",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00153300"
           },
           "alpha-08": {
-            "value": "#00153314",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00153314"
           },
           "alpha-24": {
-            "value": "#0015333d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0015333d"
           },
           "alpha-48": {
-            "value": "#0015337a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0015337a"
           }
         },
         "1000": {
           "alpha-00": {
-            "value": "#00112a00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00112a00"
           },
           "alpha-08": {
-            "value": "#00112a14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00112a14"
           },
           "alpha-24": {
-            "value": "#00112a3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00112a3d"
           },
           "alpha-48": {
-            "value": "#00112a7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00112a7a"
           }
         }
       },
       "Yellow": {
         "0": {
           "alpha-00": {
-            "value": "#fcf6e600",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fcf6e600"
           },
           "alpha-08": {
-            "value": "#fcf6e614",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fcf6e614"
           },
           "alpha-24": {
-            "value": "#fcf6e63d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fcf6e63d"
           },
           "alpha-48": {
-            "value": "#fcf6e67a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fcf6e67a"
           }
         },
         "50": {
           "alpha-00": {
-            "value": "#f9eec300",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f9eec300"
           },
           "alpha-08": {
-            "value": "#f9eec314",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f9eec314"
           },
           "alpha-24": {
-            "value": "#f9eec33d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f9eec33d"
           },
           "alpha-48": {
-            "value": "#f9eec37a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f9eec37a"
           }
         },
         "100": {
           "alpha-00": {
-            "value": "#f8e59600",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f8e59600"
           },
           "alpha-08": {
-            "value": "#f8e59614",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f8e59614"
           },
           "alpha-24": {
-            "value": "#f8e5963d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f8e5963d"
           },
           "alpha-48": {
-            "value": "#f8e5967a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f8e5967a"
           }
         },
         "200": {
           "alpha-00": {
-            "value": "#f4d65d00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4d65d00"
           },
           "alpha-08": {
-            "value": "#f4d65d14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4d65d14"
           },
           "alpha-24": {
-            "value": "#f4d65d3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4d65d3d"
           },
           "alpha-48": {
-            "value": "#f4d65d7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4d65d7a"
           }
         },
         "300": {
           "alpha-00": {
-            "value": "#f1c21b00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1c21b00"
           },
           "alpha-08": {
-            "value": "#f1c21b14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1c21b14"
           },
           "alpha-24": {
-            "value": "#f1c21b3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1c21b3d"
           },
           "alpha-48": {
-            "value": "#f1c21b7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1c21b7a"
           }
         },
         "400": {
           "alpha-00": {
-            "value": "#eaad0600",
-            "type": "color"
+            "$type": "color",
+            "$value": "#eaad0600"
           },
           "alpha-08": {
-            "value": "#eaad0614",
-            "type": "color"
+            "$type": "color",
+            "$value": "#eaad0614"
           },
           "alpha-24": {
-            "value": "#eaad063d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#eaad063d"
           },
           "alpha-48": {
-            "value": "#eaad067a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#eaad067a"
           }
         },
         "500": {
           "alpha-00": {
-            "value": "#b87c1400",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b87c1400"
           },
           "alpha-08": {
-            "value": "#b87c1414",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b87c1414"
           },
           "alpha-24": {
-            "value": "#b87c143d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b87c143d"
           },
           "alpha-48": {
-            "value": "#b87c147a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b87c147a"
           }
         },
         "600": {
           "alpha-00": {
-            "value": "#97571700",
-            "type": "color"
+            "$type": "color",
+            "$value": "#97571700"
           },
           "alpha-08": {
-            "value": "#97571714",
-            "type": "color"
+            "$type": "color",
+            "$value": "#97571714"
           },
           "alpha-24": {
-            "value": "#9757173d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#9757173d"
           },
           "alpha-48": {
-            "value": "#9757177a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#9757177a"
           }
         },
         "700": {
           "alpha-00": {
-            "value": "#6b3b1000",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6b3b1000"
           },
           "alpha-08": {
-            "value": "#6b3b1014",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6b3b1014"
           },
           "alpha-24": {
-            "value": "#6b3b103d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6b3b103d"
           },
           "alpha-48": {
-            "value": "#6b3b107a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#6b3b107a"
           }
         },
         "800": {
           "alpha-00": {
-            "value": "#4d260a00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4d260a00"
           },
           "alpha-08": {
-            "value": "#4d260a14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4d260a14"
           },
           "alpha-24": {
-            "value": "#4d260a3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4d260a3d"
           },
           "alpha-48": {
-            "value": "#4d260a7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4d260a7a"
           }
         },
         "900": {
           "alpha-00": {
-            "value": "#361b0700",
-            "type": "color"
+            "$type": "color",
+            "$value": "#361b0700"
           },
           "alpha-08": {
-            "value": "#361b0714",
-            "type": "color"
+            "$type": "color",
+            "$value": "#361b0714"
           },
           "alpha-24": {
-            "value": "#361b073d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#361b073d"
           },
           "alpha-48": {
-            "value": "#361b077a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#361b077a"
           }
         },
         "1000": {
           "alpha-00": {
-            "value": "#27150200",
-            "type": "color"
+            "$type": "color",
+            "$value": "#27150200"
           },
           "alpha-08": {
-            "value": "#27150214",
-            "type": "color"
+            "$type": "color",
+            "$value": "#27150214"
           },
           "alpha-24": {
-            "value": "#2715023d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2715023d"
           },
           "alpha-48": {
-            "value": "#2715027a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2715027a"
           }
         }
       },
       "Green": {
         "0": {
           "alpha-00": {
-            "value": "#f1fcf900",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1fcf900"
           },
           "alpha-08": {
-            "value": "#f1fcf914",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1fcf914"
           },
           "alpha-24": {
-            "value": "#f1fcf93d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1fcf93d"
           },
           "alpha-48": {
-            "value": "#f1fcf97a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f1fcf97a"
           }
         },
         "50": {
           "alpha-00": {
-            "value": "#d3eee700",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d3eee700"
           },
           "alpha-08": {
-            "value": "#d3eee714",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d3eee714"
           },
           "alpha-24": {
-            "value": "#d3eee73d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d3eee73d"
           },
           "alpha-48": {
-            "value": "#d3eee77a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d3eee77a"
           }
         },
         "100": {
           "alpha-00": {
-            "value": "#9bd9c200",
-            "type": "color"
+            "$type": "color",
+            "$value": "#9bd9c200"
           },
           "alpha-08": {
-            "value": "#9bd9c214",
-            "type": "color"
+            "$type": "color",
+            "$value": "#9bd9c214"
           },
           "alpha-24": {
-            "value": "#9bd9c23d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#9bd9c23d"
           },
           "alpha-48": {
-            "value": "#9bd9c27a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#9bd9c27a"
           }
         },
         "200": {
           "alpha-00": {
-            "value": "#65bda500",
-            "type": "color"
+            "$type": "color",
+            "$value": "#65bda500"
           },
           "alpha-08": {
-            "value": "#65bda514",
-            "type": "color"
+            "$type": "color",
+            "$value": "#65bda514"
           },
           "alpha-24": {
-            "value": "#65bda53d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#65bda53d"
           },
           "alpha-48": {
-            "value": "#65bda57a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#65bda57a"
           }
         },
         "300": {
           "alpha-00": {
-            "value": "#009e7e00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#009e7e00"
           },
           "alpha-08": {
-            "value": "#009e7e14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#009e7e14"
           },
           "alpha-24": {
-            "value": "#009e7e3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#009e7e3d"
           },
           "alpha-48": {
-            "value": "#009e7e7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#009e7e7a"
           }
         },
         "400": {
           "alpha-00": {
-            "value": "#00806400",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00806400"
           },
           "alpha-08": {
-            "value": "#00806414",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00806414"
           },
           "alpha-24": {
-            "value": "#0080643d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0080643d"
           },
           "alpha-48": {
-            "value": "#0080647a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0080647a"
           }
         },
         "500": {
           "alpha-00": {
-            "value": "#00664f00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00664f00"
           },
           "alpha-08": {
-            "value": "#00664f14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00664f14"
           },
           "alpha-24": {
-            "value": "#00664f3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00664f3d"
           },
           "alpha-48": {
-            "value": "#00664f7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00664f7a"
           }
         },
         "600": {
           "alpha-00": {
-            "value": "#004d3b00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#004d3b00"
           },
           "alpha-08": {
-            "value": "#004d3b14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#004d3b14"
           },
           "alpha-24": {
-            "value": "#004d3b3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#004d3b3d"
           },
           "alpha-48": {
-            "value": "#004d3b7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#004d3b7a"
           }
         },
         "700": {
           "alpha-00": {
-            "value": "#0a382e00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0a382e00"
           },
           "alpha-08": {
-            "value": "#0a382e14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0a382e14"
           },
           "alpha-24": {
-            "value": "#0a382e3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0a382e3d"
           },
           "alpha-48": {
-            "value": "#0a382e7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0a382e7a"
           }
         },
         "800": {
           "alpha-00": {
-            "value": "#00251b00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00251b00"
           },
           "alpha-08": {
-            "value": "#00251b14",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00251b14"
           },
           "alpha-24": {
-            "value": "#00251b3d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00251b3d"
           },
           "alpha-48": {
-            "value": "#00251b7a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#00251b7a"
           }
         },
         "900": {
           "alpha-00": {
-            "value": "#001a1200",
-            "type": "color"
+            "$type": "color",
+            "$value": "#001a1200"
           },
           "alpha-08": {
-            "value": "#001a1214",
-            "type": "color"
+            "$type": "color",
+            "$value": "#001a1214"
           },
           "alpha-24": {
-            "value": "#001a123d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#001a123d"
           },
           "alpha-48": {
-            "value": "#001a127a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#001a127a"
           }
         },
         "1000": {
           "alpha-00": {
-            "value": "#000f0700",
-            "type": "color"
+            "$type": "color",
+            "$value": "#000f0700"
           },
           "alpha-08": {
-            "value": "#000f0714",
-            "type": "color"
+            "$type": "color",
+            "$value": "#000f0714"
           },
           "alpha-24": {
-            "value": "#000f073d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#000f073d"
           },
           "alpha-48": {
-            "value": "#000f077a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#000f077a"
           }
         }
       }
@@ -1349,192 +1349,192 @@
   },
   "FontFamily": {
     "Body": {
-      "value": "Scania Sans CY",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Scania Sans CY"
     },
     "Headline": {
-      "value": "Scania Sans CY Headline",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Scania Sans CY Headline"
     }
   },
   "FontWeight": {
     "Default": {
-      "value": "Regular",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Regular"
     }
   },
   "FontSize": {
     "20": {
-      "value": "20px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "20px"
     },
     "24": {
-      "value": "24px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "24px"
     },
     "28": {
-      "value": "28px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "28px"
     },
     "32": {
-      "value": "32px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "32px"
     },
     "36": {
-      "value": "36px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "36px"
     },
     "44": {
-      "value": "44px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "44px"
     },
     "56": {
-      "value": "56px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "56px"
     },
     "80": {
-      "value": "80px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "80px"
     },
     "104": {
-      "value": "104px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "104px"
     }
   },
   "LineHeight": {
     "20": {
-      "value": "20px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "20px"
     },
     "24": {
-      "value": "24px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "24px"
     },
     "28": {
-      "value": "28px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "28px"
     },
     "32": {
-      "value": "32px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "32px"
     },
     "40": {
-      "value": "40px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "40px"
     },
     "48": {
-      "value": "48px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "48px"
     },
     "56": {
-      "value": "56px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "56px"
     },
     "72": {
-      "value": "72px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "72px"
     },
     "96": {
-      "value": "96px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "96px"
     }
   },
   "BorderRadius": {
     "0": {
-      "value": "0px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "0px"
     },
     "4": {
-      "value": "4px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "4px"
     },
     "8": {
-      "value": "8px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "8px"
     },
     "16": {
-      "value": "16px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "16px"
     },
     "32": {
-      "value": "32px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "32px"
     },
     "Full": {
-      "value": "9999px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "9999px"
     }
   },
   "Space": {
     "4": {
-      "value": "4px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "4px"
     },
     "8": {
-      "value": "8px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "8px"
     },
     "12": {
-      "value": "12px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "12px"
     },
     "16": {
-      "value": "16px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "16px"
     },
     "24": {
-      "value": "24px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "24px"
     },
     "32": {
-      "value": "32px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "32px"
     },
     "40": {
-      "value": "40px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "40px"
     },
     "48": {
-      "value": "48px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "48px"
     },
     "56": {
-      "value": "56px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "56px"
     },
     "64": {
-      "value": "64px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "64px"
     },
     "96": {
-      "value": "96px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "96px"
     }
   },
   "IconSize": {
     "24": {
-      "value": "24px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "24px"
     },
     "32": {
-      "value": "32px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "32px"
     },
     "40": {
-      "value": "40px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "40px"
     },
     "48": {
-      "value": "48px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "48px"
     },
     "56": {
-      "value": "56px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "56px"
     },
     "64": {
-      "value": "64px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "64px"
     }
   }
 }
