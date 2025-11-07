@@ -1536,5 +1536,23 @@
       "$type": "sizing",
       "$value": "64px"
     }
+  },
+  "opacity": {
+    "alpha-00": {
+      "$type": "opacity",
+      "$value": "0"
+    },
+    "alpha-08": {
+      "$type": "opacity",
+      "$value": "0.08"
+    },
+    "alpha-24": {
+      "$type": "opacity",
+      "$value": "0.24"
+    },
+    "alpha-48": {
+      "$type": "opacity",
+      "$value": "0.48"
+    }
   }
 }
