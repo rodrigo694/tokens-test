@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "primitives/MAN",
-    "primitives/Scania"
+    "primitives/Scania",
+    "decision/MAN"
   ]
 }

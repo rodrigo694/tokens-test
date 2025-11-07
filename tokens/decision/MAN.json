@@ -1,0 +1,8 @@
+{
+  "Surface": {
+    "Elevated": {
+      "$type": "color",
+      "$value": "{MAN.Transparent.Accent.Green.0.alpha-00}"
+    }
+  }
+}
