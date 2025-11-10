@@ -4211,11 +4211,11 @@
     "FontFamily": {
       "Body": {
         "$type": "fontFamilies",
-        "$value": "Scania Sans CY"
+        "$value": "MAN Condensed"
       },
       "Headline": {
         "$type": "fontFamilies",
-        "$value": "Scania Sans CY Headline"
+        "$value": "MAN Condensed"
       }
     },
     "FontWeight": {
@@ -4225,10 +4225,6 @@
       }
     },
     "FontSize": {
-      "20": {
-        "$type": "fontSizes",
-        "$value": "20px"
-      },
       "24": {
         "$type": "fontSizes",
         "$value": "24px"
@@ -4245,32 +4241,28 @@
         "$type": "fontSizes",
         "$value": "36px"
       },
-      "44": {
+      "40": {
         "$type": "fontSizes",
-        "$value": "44px"
+        "$value": "40px"
       },
-      "56": {
+      "52": {
         "$type": "fontSizes",
-        "$value": "56px"
+        "$value": "52px"
       },
-      "80": {
+      "64": {
         "$type": "fontSizes",
-        "$value": "80px"
+        "$value": "64px"
       },
-      "104": {
+      "96": {
         "$type": "fontSizes",
-        "$value": "104px"
+        "$value": "96px"
+      },
+      "160": {
+        "$type": "fontSizes",
+        "$value": "160px"
       }
     },
     "LineHeight": {
-      "20": {
-        "$type": "lineHeights",
-        "$value": "20px"
-      },
-      "24": {
-        "$type": "lineHeights",
-        "$value": "24px"
-      },
       "28": {
         "$type": "lineHeights",
         "$value": "28px"
@@ -4278,6 +4270,10 @@
       "32": {
         "$type": "lineHeights",
         "$value": "32px"
+      },
+      "36": {
+        "$type": "lineHeights",
+        "$value": "36px"
       },
       "40": {
         "$type": "lineHeights",
@@ -4287,17 +4283,21 @@
         "$type": "lineHeights",
         "$value": "48px"
       },
-      "56": {
+      "64": {
         "$type": "lineHeights",
-        "$value": "56px"
+        "$value": "64px"
       },
-      "72": {
+      "80": {
         "$type": "lineHeights",
-        "$value": "72px"
+        "$value": "80px"
       },
-      "96": {
+      "112": {
         "$type": "lineHeights",
-        "$value": "96px"
+        "$value": "112px"
+      },
+      "192": {
+        "$type": "lineHeights",
+        "$value": "192px"
       }
     },
     "BorderRadius": {

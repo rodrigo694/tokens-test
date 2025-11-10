@@ -72,5 +72,51 @@
       "$type": "borderRadius",
       "$value": "{Scania.BorderRadius.Full}"
     }
+  },
+  "Space": {
+    "4XS": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.4}"
+    },
+    "3XS": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.8}"
+    },
+    "2XS": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.12}"
+    },
+    "XS": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.16}"
+    },
+    "S": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.24}"
+    },
+    "M": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.32}"
+    },
+    "L": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.40}"
+    },
+    "XL": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.48}"
+    },
+    "2XL": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.56}"
+    },
+    "3XL": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.64}"
+    },
+    "4XL": {
+      "$type": "dimension",
+      "$value": "{Scania.Space.96}"
+    }
   }
 }

@@ -72,5 +72,210 @@
       "$type": "borderRadius",
       "$value": "{MAN.BorderRadius.Full}"
     }
+  },
+  "Space": {
+    "4XS": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.4}"
+    },
+    "3XS": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.8}"
+    },
+    "2XS": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.12}"
+    },
+    "XS": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.16}"
+    },
+    "S": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.24}"
+    },
+    "M": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.32}"
+    },
+    "L": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.40}"
+    },
+    "XL": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.48}"
+    },
+    "2XL": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.56}"
+    },
+    "3XL": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.64}"
+    },
+    "4XL": {
+      "$type": "dimension",
+      "$value": "{MAN.Space.96}"
+    }
+  },
+  "DD": {
+    "Speed": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Headline}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.160}",
+        "lineHeight": "{MAN.LineHeight.192}"
+      }
+    },
+    "Display-1": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.96}",
+        "lineHeight": "{MAN.LineHeight.112}"
+      }
+    },
+    "Display-2": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.64}",
+        "lineHeight": "{MAN.LineHeight.80}"
+      }
+    },
+    "Display-3": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.40}",
+        "lineHeight": "{MAN.LineHeight.48}"
+      }
+    },
+    "Body-1": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.36}",
+        "lineHeight": "{MAN.LineHeight.40}"
+      }
+    },
+    "Body-2": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.32}",
+        "lineHeight": "{MAN.LineHeight.36}"
+      }
+    },
+    "Body-3": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.24}",
+        "lineHeight": "{MAN.LineHeight.28}"
+      }
+    }
+  },
+  "CIDSmall": {
+    "Readout": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Headline}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.160}",
+        "lineHeight": "{MAN.LineHeight.192}"
+      }
+    },
+    "Display": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.52}",
+        "lineHeight": "{MAN.LineHeight.64}"
+      }
+    },
+    "Body-1": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.40}",
+        "lineHeight": "{MAN.LineHeight.48}"
+      }
+    },
+    "Body-2": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.36}",
+        "lineHeight": "{MAN.LineHeight.40}"
+      }
+    },
+    "Body-3": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.32}",
+        "lineHeight": "{MAN.LineHeight.36}"
+      }
+    }
+  },
+  "CIDLarge": {
+    "Readout": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Headline}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.160}",
+        "lineHeight": "{MAN.LineHeight.192}"
+      }
+    },
+    "Display": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.52}",
+        "lineHeight": "{MAN.LineHeight.64}"
+      }
+    },
+    "Body-1": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.40}",
+        "lineHeight": "{MAN.LineHeight.48}"
+      }
+    },
+    "Body-2": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.36}",
+        "lineHeight": "{MAN.LineHeight.40}"
+      }
+    },
+    "Body-3": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{MAN.FontFamily.Body}",
+        "fontWeight": "{MAN.FontWeight.Default}",
+        "fontSize": "{MAN.FontSize.32}",
+        "lineHeight": "{MAN.LineHeight.36}"
+      }
+    }
   }
 }
