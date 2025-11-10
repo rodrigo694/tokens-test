@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "f986f82279e5d18c3139f427d041df031066bba0",
+    "name": "MAN",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/MAN": "source",
+      "primitives/Scania": "source",
+      "decision/MAN": "enabled"
+    },
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "6149abb0c0b466a2af3d5c1b94d87b20dd0e17f7",
+    "name": "Scania",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "decision/Scania": "enabled",
+      "primitives/MAN": "source",
+      "primitives/Scania": "source"
+    },
+    "$figmaVariableReferences": {}
+  }
+]

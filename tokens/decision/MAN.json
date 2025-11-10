@@ -1,8 +1,58 @@
 {
   "Surface": {
     "Elevated": {
-      "$type": "color",
-      "$value": "{MAN.Transparent.Accent.Green.0.alpha-00}"
+      "Default": {
+        "$type": "color",
+        "$value": "{MAN.Transparent.Slate.700.alpha-24}"
+      }
+    }
+  },
+  "Fill": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{MAN.Transparent.Neutral.0.alpha-00}"
+      }
+    }
+  },
+  "Foreground": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{MAN.Solid.Neutral.0}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{MAN.Solid.Neutral.0}"
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{MAN.Transparent.Neutral.0.alpha-48}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{MAN.Solid.Neutral.0}"
+      }
+    }
+  },
+  "Border": {
+    "Surface": {
+      "Elevated": {
+        "Default": {
+          "$type": "color",
+          "$value": "{MAN.Solid.Neutral.1000}"
+        }
+      }
+    },
+    "Fill": {
+      "Primary": {
+        "Default": {
+          "$type": "color",
+          "$value": "{MAN.Transparent.Slate.300.alpha-48}"
+        }
+      }
     }
   }
 }

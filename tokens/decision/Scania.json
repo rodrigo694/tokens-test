@@ -1,0 +1,58 @@
+{
+  "Surface": {
+    "Elevated": {
+      "Default": {
+        "$type": "color",
+        "$value": "linear-gradient(103deg, {Scania.Transparent.Neutral.0.alpha-24} 0%, {Scania.Transparent.Neutral.0.alpha-08} 25%, {Scania.Transparent.Neutral.0.alpha-00} 50%, {Scania.Transparent.Neutral.0.alpha-08} 75%, {Scania.Transparent.Neutral.0.alpha-24} 100%);"
+      }
+    }
+  },
+  "Fill": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "linear-gradient(135deg, {Scania.Transparent.Neutral.0.alpha-24} 0%, {Scania.Transparent.Neutral.0.alpha-00} 40%, {Scania.Transparent.Neutral.0.alpha-00} 72%, {Scania.Transparent.Neutral.0.alpha-24} 100%);"
+      }
+    }
+  },
+  "Foreground": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Scania.Solid.Neutral.0}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Scania.Solid.Neutral.0}"
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Scania.Transparent.Neutral.0.alpha-48}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Scania.Solid.Neutral.0}"
+      }
+    }
+  },
+  "Border": {
+    "Surface": {
+      "Elevated": {
+        "Default": {
+          "$type": "color",
+          "$value": "linear-gradient(103deg, {Scania.Transparent.Neutral.0.alpha-24} 0%, {Scania.Transparent.Neutral.0.alpha-08} 25%, {Scania.Transparent.Neutral.0.alpha-00} 50%, {Scania.Transparent.Neutral.0.alpha-00} 75%, {Scania.Transparent.Neutral.0.alpha-08} 100%);"
+        }
+      }
+    },
+    "Fill": {
+      "Primary": {
+        "Default": {
+          "$type": "color",
+          "$value": "linear-gradient(135deg, {Scania.Transparent.Neutral.0.alpha-48} 0%, {Scania.Transparent.Neutral.0.alpha-00} 50%, {Scania.Transparent.Neutral.0.alpha-24} 100%);"
+        }
+      }
+    }
+  }
+}
