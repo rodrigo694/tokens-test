@@ -54,5 +54,23 @@
         }
       }
     }
+  },
+  "BorderRadius": {
+    "S": {
+      "$type": "borderRadius",
+      "$value": "{MAN.BorderRadius.0}"
+    },
+    "M": {
+      "$type": "borderRadius",
+      "$value": "{MAN.BorderRadius.8}"
+    },
+    "L": {
+      "$type": "borderRadius",
+      "$value": "{MAN.BorderRadius.16}"
+    },
+    "Full": {
+      "$type": "borderRadius",
+      "$value": "{MAN.BorderRadius.Full}"
+    }
   }
 }

@@ -54,5 +54,23 @@
         }
       }
     }
+  },
+  "BorderRadius": {
+    "S": {
+      "$type": "borderRadius",
+      "$value": "{Scania.BorderRadius.8}"
+    },
+    "M": {
+      "$type": "borderRadius",
+      "$value": "{Scania.BorderRadius.16}"
+    },
+    "L": {
+      "$type": "borderRadius",
+      "$value": "{Scania.BorderRadius.32}"
+    },
+    "Full": {
+      "$type": "borderRadius",
+      "$value": "{Scania.BorderRadius.Full}"
+    }
   }
 }
